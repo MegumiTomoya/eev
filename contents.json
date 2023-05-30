@@ -1,0 +1,74 @@
+{
+  "sticker_packs": [
+    {
+      "identifier": "1",
+      "name": "Eevee 1",
+      "publisher": "Lelou Wallpapers",
+      "tray_image_file": "https://raw.githubusercontent.com/MegumiTomoya/eev/main/1/tray.png",
+      "publisherEmail": "tekinmkmk@gmail.com",
+      "androidPlayStoreLink": "https://play.google.com/store/apps/details?id=com.eevee_stickers.lelou",
+      "publisher_website": "https://t.me/addstickers/eevlelou",
+      "privacy_policy_website": "https://imam.aesthwp.xyz/eevpp.html",
+      "license_agreement_website": "https://twitter.com/HassooniApps",
+      "animated_sticker_pack": false,
+      "stickers": [
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/eev/main/1/1.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/eev/main/1/2.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/eev/main/1/3.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/eev/main/1/4.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/eev/main/1/5.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/eev/main/1/6.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/eev/main/1/7.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/eev/main/1/8.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/eev/main/1/9.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/eev/main/1/10.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/eev/main/1/11.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/eev/main/1/12.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/eev/main/1/13.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/eev/main/1/14.webp",
+          "emojis": ["", ""]
+        }
+      ]
+    }
+  ]
+}
